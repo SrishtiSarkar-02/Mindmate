@@ -1,0 +1,3 @@
+In TERMINAL run these commands:
+1. pip install groq streamlit python-dotenv
+2. streamlit run app.py
